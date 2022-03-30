@@ -13,7 +13,7 @@ Here is my personal portfolio page that I designed with CSS animation and SCSS. 
 
 ### Install
 
-- Clone "task-tracker" repository from Github
+- Clone "portfolio" repository from Github
 
 - git clone https://github.com/AzeBilir/porfolio
 
