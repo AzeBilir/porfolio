@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Portfolio Project with React.
+Here is my personal portfolio page that I designed with CSS animation and SCSS. You can reach me by sending an e-mail in this project where I use Email.js.
 
 ## Tecnologies I Used:
 
