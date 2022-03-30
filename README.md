@@ -9,16 +9,15 @@ Here is my personal portfolio page that I designed with CSS animation and SCSS. 
 - SCSS
 - CSS Animations
 
+# To see the animations;
 
-Live Demo : [HERE!](https://awesome-task-tracker.netlify.app/)
-
-# Getting Started
-
-## Install
+### Install
 
 - Clone "task-tracker" repository from Github
 
 - git clone https://github.com/AzeBilir/porfolio
+
+
 
 ### `npm install`
 ### `npm start`
