@@ -1,5 +1,6 @@
 import './index.scss'
-
+import LogoS from '../../assets/images/logo-s.png'
+import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faLinkedin,
@@ -8,7 +9,7 @@ import {
   faSkype,
 } from '@fortawesome/free-brands-svg-icons'
 import { faHome, faUser, faEnvelope } from '@fortawesome/free-solid-svg-icons'
-import { NavLink } from 'react-router-dom'
+import { Link, NavLink } from 'react-router-dom'
 
 const Sidebar = () => {
   return (
@@ -31,7 +32,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/slobodan-gaji%C4%87-006bb8b8/"
+            href="https://www.linkedin.com/in/aze-bilir/"
             target="_blank"
             rel="noreferrer"
           >
@@ -40,25 +41,11 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/bobangajicsm"
+            href="https://github.com/AzeBilir"
             target="_blank"
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://www.youtube.com/channel/UCBu5ulO4d-d47lAVybpRTkw"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <FontAwesomeIcon icon={faYoutube} color="#4d4d4e" />
-          </a>
-        </li>
-        <li>
-          <a href="skype:live:bobangajicsm" rel="noreferrer" target="_blank">
-            <FontAwesomeIcon icon={faSkype} color="#4d4d4e" />
           </a>
         </li>
       </ul>

@@ -11,7 +11,6 @@ const Home = () => {
   const nameArray = ['A', 'z', 'e']
   const jobArray = [
     'f',
-    'r',
     'o',
     'n',
     't',
@@ -61,9 +60,7 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>
-            Front End Developer / JavaScript Killer / Blog Writer @SistersLab
-          </h2>
+          <h2>Front End Developer / React Believer / Blog Writer @SistesLab</h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
